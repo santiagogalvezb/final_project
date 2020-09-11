@@ -1,0 +1,17 @@
+* {
+    margin:0;
+    padding:0;
+}
+
+body {
+    background-color: black;
+    margin: 10px;
+}
+
+img {
+    height: 60vh;
+}
+
+p {
+    font-size: 150%;
+}
